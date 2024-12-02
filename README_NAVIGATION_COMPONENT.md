@@ -114,24 +114,35 @@ Nested Graph (вложенный граф) предоставляет спосо
 Как использовать `<include>`?
 Использование `<include>` предполагает, что вы вынесли разметку в отдельный XML-файл (например, `toolbar.xml`), а затем подключаете его в основном макете.
  
+ ![image](https://github.com/user-attachments/assets/ff64bf9e-0da5-427f-baf5-9edbcaa45ecd)
 
-  
+  ![image](https://github.com/user-attachments/assets/6fcab9c8-f8c7-4143-a3ce-16a733aec4d7)
 
 Также можно переопределять его layout-параметры. Скрин выше.
 
 Использование include в navigation component:
- 
+
+  ![image](https://github.com/user-attachments/assets/e7655c7c-b2a4-4ae7-8ff7-809312a1f2c1)
+
 `Navigation-UI` — это часть библиотеки **Jetpack Navigation** в Android. Она предназначена для упрощения работы с навигацией в приложениях. С помощью `Navigation-UI` разработчики могут интегрировать навигацию в `BottomNavigationView`, `Toolbar`, `ActionBar` или другие элементы интерфейса без лишнего кода — все делается автоматически, подключив библиотеку.
 
- 
+  ![image](https://github.com/user-attachments/assets/09cfd695-b2bc-479e-9d38-cc5f5b56a281)
+
 
 Теперь не нужно писать столько кода, сколько мы писали до этого при подключении Bottom Navigation. Айдишники в menu и в nav_graph должны совпадать.
- 
 
+ ![image](https://github.com/user-attachments/assets/4fe26627-baee-44c7-830d-7b41e2e6e017)
 
 •	Safe Args (Safe Arguments) — это плагин, который является частью библиотеки **Jetpack Navigation**, предоставляющий безопасный и удобный способ передачи аргументов между фрагментами или действиями (activities) при использовании навигации.
  
- 
+  ![image](https://github.com/user-attachments/assets/eb943d17-2cac-4685-9347-3733919a345f)
+
+   ![image](https://github.com/user-attachments/assets/1b6c1c62-dbda-4680-a6f5-a4e4cae54382)
+
+    ![image](https://github.com/user-attachments/assets/6b5f0d6b-b7de-495a-bfc8-61f7747fc00e)
+
+
+
 
 
  
